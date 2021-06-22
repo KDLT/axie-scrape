@@ -1,0 +1,1322 @@
+{
+    "October Treat": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 0,
+        "def": 110,
+        "class": "plant",
+        "description": "Draw a card if this Axie's shield doesn't break this round.",
+        "body part": "Back",
+        "part name": " Pumpkin"
+    },
+    "Nut Crack": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 105,
+        "def": 30,
+        "class": "beast",
+        "description": "Deal 120% damage when comboed with another 'Nut Cracker' card.",
+        "body part": "Mouth",
+        "part name": " Nut Cracker"
+    },
+    "Chomp": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 80,
+        "def": 50,
+        "class": "reptile",
+        "description": "Apply Stun to enemy when comboed with at least 2 additional cards.",
+        "body part": "Mouth",
+        "part name": " Tiny Turtle"
+    },
+    "Carrot Hammer": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 70,
+        "def": 40,
+        "class": "plant",
+        "description": "Gain 1 energy if this Axie's shield breaks. Can only trigger once per round.",
+        "body part": "Tail",
+        "part name": " Carrot"
+    },
+    "Sticky Goo": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 40,
+        "def": 60,
+        "class": "bug",
+        "description": "Stun attacker if this Axie\u2019s shield breaks. Can only trigger once per round.",
+        "body part": "Back",
+        "part name": " Snail Shell"
+    },
+    "Nut Throw": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 105,
+        "def": 30,
+        "class": "beast",
+        "description": "Deal 120% damage when comboed with another 'Nut Cracker' card.",
+        "body part": "Tail",
+        "part name": " Nut Cracker"
+    },
+    "Piercing Sound": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 80,
+        "def": 40,
+        "class": "beast",
+        "description": "Destroy 1 of your opponent's energy.",
+        "body part": "Mouth",
+        "part name": " Goda"
+    },
+    "Swift Escape": {
+        "tier": "S",
+        "nrg": 1,
+        "atk": 110,
+        "def": 20,
+        "class": "aquatic",
+        "description": "Apply Speed+ to this Axie for 2 rounds when attacked.",
+        "body part": "Back",
+        "part name": " Goldfish"
+    },
+    "Spike Throw": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 80,
+        "def": 50,
+        "class": "reptile",
+        "description": "Target enemy with lowest shield when comboed with 2 or more cards.",
+        "body part": "Back",
+        "part name": " Tri Spikes"
+    },
+    "Single Combat": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 75,
+        "def": 0,
+        "class": "beast",
+        "description": "Guaranteed critical strike when comboed with at least 2 other cards.",
+        "body part": "Back",
+        "part name": " Ronin"
+    },
+    "All-out Shot": {
+        "tier": "A",
+        "nrg": 0,
+        "atk": 120,
+        "def": 0,
+        "class": "bird",
+        "description": "Inflict 30% of this Axie's max HP to itself.",
+        "body part": "Tail",
+        "part name": " Post Fight"
+    },
+    "Blackmail": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 120,
+        "def": 10,
+        "class": "bird",
+        "description": "Transfer all debuffs on this Axie to target.",
+        "body part": "Back",
+        "part name": " Pigeon Post"
+    },
+    "Ivory Stab": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 70,
+        "def": 20,
+        "class": "beast",
+        "description": "Gain 1 energy per critical strike dealt by your team this round.",
+        "body part": "Horn",
+        "part name": " Imp"
+    },
+    "Anesthetic Bait": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 60,
+        "def": 80,
+        "class": "bug",
+        "description": "Apply stun when struck by Aquatic or Bird class cards. Can only trigger once per round.",
+        "body part": "Tail",
+        "part name": " Fish Snack"
+    },
+    "Vegetal Bite": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 30,
+        "def": 30,
+        "class": "plant",
+        "description": "Steal 1 energy from your opponent when comboed with another card.",
+        "body part": "Mouth",
+        "part name": " Serious"
+    },
+    "Eggbomb": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 120,
+        "def": 0,
+        "class": "bird",
+        "description": "Apply Aroma on this Axie until next round.",
+        "body part": "Horn",
+        "part name": " Eggshell"
+    },
+    "Wooden Stab": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 105,
+        "def": 40,
+        "class": "plant",
+        "description": "Deal 120% damage if this Axie's shield breaks.",
+        "body part": "Horn",
+        "part name": " Beech"
+    },
+    "Acrobatic": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "beast",
+        "description": "Apply speed+ to this Axie for 2 rounds when attacking.",
+        "body part": "Horn",
+        "part name": " Arco"
+    },
+    "Branch Charge": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 125,
+        "def": 25,
+        "class": "beast",
+        "description": "Increase crit chance by 20% if chained or comboed with a plant card.",
+        "body part": "Horn",
+        "part name": " Little Branch"
+    },
+    "Tail Slap": {
+        "tier": "A",
+        "nrg": 0,
+        "atk": 30,
+        "def": 0,
+        "class": "aquatic",
+        "description": "Gain 1 energy when comboed with another card.",
+        "body part": "Tail",
+        "part name": " Nimo"
+    },
+    "Prickly Trap": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 110,
+        "def": 20,
+        "class": "plant",
+        "description": "Deal 120% damage if this Axie attacks last.",
+        "body part": "Horn",
+        "part name": " Cactus"
+    },
+    "Disguise": {
+        "tier": "A",
+        "nrg": 0,
+        "atk": 20,
+        "def": 20,
+        "class": "bug",
+        "description": "Gain 1 energy when comboed with a plant card.",
+        "body part": "Horn",
+        "part name": " Leaf Bug"
+    },
+    "Vine Dagger": {
+        "tier": "A",
+        "nrg": 0,
+        "atk": 20,
+        "def": 30,
+        "class": "reptile",
+        "description": "Double shield from this card when comboed with a plant card.",
+        "body part": "Back",
+        "part name": " Green Thorns"
+    },
+    "Sinister Strike": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 130,
+        "def": 20,
+        "class": "beast",
+        "description": "Deal 250% damage on critical strikes.",
+        "body part": "Horn",
+        "part name": " Dual Blade"
+    },
+    "Headshot": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 130,
+        "def": 0,
+        "class": "bird",
+        "description": "Disable target's horn cards next round.",
+        "body part": "Horn",
+        "part name": " Kestrel"
+    },
+    "Critical Escape": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 90,
+        "def": 10,
+        "class": "reptile",
+        "description": "Reduce damage taken by 15% this round.",
+        "body part": "Tail",
+        "part name": " Wall Gecko, Escaped Gecko"
+    },
+    "Cleanse Scent": {
+        "tier": "A",
+        "nrg": 0,
+        "atk": 0,
+        "def": 50,
+        "class": "plant",
+        "description": "Remove all debuffs from this Axie.",
+        "body part": "Back",
+        "part name": " Bidens"
+    },
+    "Allergic Reaction": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 105,
+        "def": 30,
+        "class": "bug",
+        "description": "Deal 130% damage to debuffed targets.",
+        "body part": "Tail",
+        "part name": " Thorny Cattepilar"
+    },
+    "Disarm": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 100,
+        "def": 40,
+        "class": "reptile",
+        "description": "Apply speed- to target for 2 rounds.",
+        "body part": "Horn",
+        "part name": " Incisor"
+    },
+    "Star Shuriken": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 115,
+        "def": 10,
+        "class": "aquatic",
+        "description": "Target cannot enter Last Stand if this card brings its HP to zero.",
+        "body part": "Horn",
+        "part name": " Shoal Star"
+    },
+    "Angry Lam": {
+        "tier": "A",
+        "nrg": 1,
+        "atk": 110,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Deal 120% damage if this Axie's HP is below 50%.",
+        "body part": "Mouth",
+        "part name": " Lam"
+    },
+    "Revenge Arrow": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 125,
+        "def": 25,
+        "class": "beast",
+        "description": "Deal 150% damage if this Axie is in Last Stand.",
+        "body part": "Back",
+        "part name": " Risky Beast"
+    },
+    "Nitro Leap": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 115,
+        "def": 35,
+        "class": "beast",
+        "description": "Always strike first if this Axie is in Last Stand.",
+        "body part": "Back",
+        "part name": " Jaguar"
+    },
+    "Fish Hook": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 110,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets.",
+        "body part": "Mouth",
+        "part name": " Risky Fish"
+    },
+    "Refresh": {
+        "tier": "B",
+        "nrg": 0,
+        "atk": 0,
+        "def": 50,
+        "class": "plant",
+        "description": "Remove all debuffs from a teammate if its directly in front (same row) of this Axie.",
+        "body part": "Back",
+        "part name": " Mint"
+    },
+    "Spicy Surprise": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 90,
+        "def": 50,
+        "class": "plant",
+        "description": "Disable target's mouth cards next round.",
+        "body part": "Tail",
+        "part name": " Hot Butt"
+    },
+    "Ill-omened": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 110,
+        "def": 30,
+        "class": "bird",
+        "description": "Apply Jinx to target for 2 rounds.",
+        "body part": "Back",
+        "part name": " Raven"
+    },
+    "Spinal Tap": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 100,
+        "def": 20,
+        "class": "aquatic",
+        "description": "Prioritize idle target when comboed with at least 2 additional cards.",
+        "body part": "Back",
+        "part name": " Perch"
+    },
+    "Drain Bite": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 60,
+        "def": 60,
+        "class": "plant",
+        "description": "Heal this Axie by the damage this card inflicts.",
+        "body part": "Mouth",
+        "part name": " Zigzag"
+    },
+    "Hare Dagger": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "beast",
+        "description": "Draw a card if this Axie attacks at the beginning of the round.",
+        "body part": "Tail",
+        "part name": " Hare"
+    },
+    "Ivory Chop": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 80,
+        "def": 80,
+        "class": "reptile",
+        "description": "Draw a card if this Axie's shield breaks.",
+        "body part": "Back",
+        "part name": " Bone Sail, Rugged Sail"
+    },
+    "Third Glance": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 80,
+        "def": 50,
+        "class": "bug",
+        "description": "Randomly discard 1 card from your enemy's hand.",
+        "body part": "Horn",
+        "part name": " Parasite"
+    },
+    "Peace Treaty": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "bird",
+        "description": "Apply Attack- on target.",
+        "body part": "Mouth",
+        "part name": " Peace Maker"
+    },
+    "Crimson Water": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Target injured enemy if this Axie's HP is below 50%.",
+        "body part": "Mouth",
+        "part name": " Piranha"
+    },
+    "Heart Break": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 20,
+        "class": "bird",
+        "description": "Apply Morale- to enemy for 2 rounds.",
+        "body part": "Back",
+        "part name": " Cupid"
+    },
+    "Buzzing Wind": {
+        "tier": "B",
+        "nrg": 0,
+        "atk": 10,
+        "def": 30,
+        "class": "bug",
+        "description": "Apply Fragile to target until next round.",
+        "body part": "Back",
+        "part name": " Spiky Wing"
+    },
+    "Cool Breeze": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "bird",
+        "description": "Apply Chill to target for 2 rounds.",
+        "body part": "Tail",
+        "part name": " Granma's Fan"
+    },
+    "Shelter": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 0,
+        "def": 115,
+        "class": "aquatic",
+        "description": "Disable critical strikes on this Axie during this round.",
+        "body part": "Back",
+        "part name": " Hermit"
+    },
+    "Surprise Invasion": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 90,
+        "def": 60,
+        "class": "reptile",
+        "description": "Deal 130% damage if target is faster than this Axie.",
+        "body part": "Horn",
+        "part name": " Cerastes"
+    },
+    "Nile Strike": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 90,
+        "def": 60,
+        "class": "reptile",
+        "description": "Appy Speed- to target for 2 rounds.",
+        "body part": "Back",
+        "part name": " Croc"
+    },
+    "Rampant Howl": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "beast",
+        "description": "Apply Morale+ to your team for 2 rounds if this Axie attacks while in Last Stand.",
+        "body part": "Tail",
+        "part name": " Shiba"
+    },
+    "Swallow": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 80,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Heal this Axie by the damage inflicted with this card.",
+        "body part": "Mouth",
+        "part name": " Catfish"
+    },
+    "Sugar Rush": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 125,
+        "def": 20,
+        "class": "beast",
+        "description": "Deal 10% additional damage for each allied Bug Axie.",
+        "body part": "Horn",
+        "part name": " Pocky"
+    },
+    "Dark Swoop": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 25,
+        "def": 0,
+        "class": "bird",
+        "description": "Target fastest enemy.",
+        "body part": "Mouth",
+        "part name": " Little Owl"
+    },
+    "Hero's Bane": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "aquatic",
+        "description": "End target's Last Stand.",
+        "body part": "Horn",
+        "part name": " Oranda"
+    },
+    "Night Steal": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 80,
+        "def": 10,
+        "class": "beast",
+        "description": "Steal 1 energy from your opponent when comboed with another card.",
+        "body part": "Tail",
+        "part name": " Rice"
+    },
+    "Merry Legion": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 65,
+        "def": 85,
+        "class": "beast",
+        "description": "Add 20% shield to this Axie when played in a chain.",
+        "body part": "Horn",
+        "part name": " Merry"
+    },
+    "Aqua Vitality": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 80,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Successful attacks restore 50 HP for each Anemone part this Axie posseses.",
+        "body part": "Back",
+        "part name": " Anemone"
+    },
+    "Healing Aroma": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 0,
+        "def": 40,
+        "class": "plant",
+        "description": "Heal this Axie for 120 HP.",
+        "body part": "Horn",
+        "part name": " Rose Bud"
+    },
+    "Aqua Stock": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 45,
+        "def": 80,
+        "class": "plant",
+        "description": "Gain 1 energy if this Axie is struck by an Aquatic card.",
+        "body part": "Back",
+        "part name": " Watering Can"
+    },
+    "Flanking Smack": {
+        "tier": "B",
+        "nrg": 1,
+        "atk": 100,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Deal 120% damage if this Axie attacks first.",
+        "body part": "Tail",
+        "part name": " Navaga"
+    },
+    "Luna Absorb": {
+        "tier": "B",
+        "nrg": 0,
+        "atk": 0,
+        "def": 0,
+        "class": "beast",
+        "description": "Gain 1 energy.",
+        "body part": "Tail",
+        "part name": " Cottontail"
+    },
+    "Terror Chomp": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "bug",
+        "description": "Apply Fear to target for 2 turns when played in a Chain.",
+        "body part": "Mouth",
+        "part name": " Cute Bunny"
+    },
+    "Insectivore": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 40,
+        "class": "bird",
+        "description": "Target Bug class enemy if this Axie's HP is below 50%.",
+        "body part": "Mouth",
+        "part name": " Hungry Bird"
+    },
+    "Aquaponics": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 80,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Successful attacks restore 50 HP for each Anemone part this Axie posseses.",
+        "body part": "Horn",
+        "part name": " Anemone"
+    },
+    "Shipwreck": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 60,
+        "def": 90,
+        "class": "aquatic",
+        "description": "Apply Attack+ to this Axie if its shield breaks.",
+        "body part": "Back",
+        "part name": " Sponge"
+    },
+    "Death Mark": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 100,
+        "def": 30,
+        "class": "beast",
+        "description": "Apply Lethal to target if this Axie's HP is below 30%.",
+        "body part": "Mouth",
+        "part name": " Axie Kiss"
+    },
+    "Slippery Shield": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 10,
+        "def": 135,
+        "class": "reptile",
+        "description": "Add 15% of this Axie's shield to adjacent teammates.",
+        "body part": "Back",
+        "part name": " Red Ear"
+    },
+    "Bug Signal": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 80,
+        "def": 60,
+        "class": "bug",
+        "description": "Steal energy from your opponent when chained with another \"Bug Signal\" card.",
+        "body part": "Horn",
+        "part name": " Antenna"
+    },
+    "Upstream Swim": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Apply Speed+ to this Axie for 2 rounds when comboed with another Aquatic class card.",
+        "body part": "Tail",
+        "part name": " Koi"
+    },
+    "Seed Bullet": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 30,
+        "def": 50,
+        "class": "plant",
+        "description": "Target the fastest enemy.",
+        "body part": "Horn",
+        "part name": " Watermelon"
+    },
+    "Grub Surprise": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "bug",
+        "description": "Apply Fear to shielded targets.",
+        "body part": "Horn",
+        "part name": " Caterpillars"
+    },
+    "Kotaro bite": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 80,
+        "def": 20,
+        "class": "reptile",
+        "description": "Gain 1 energy if target is faster than this Axie.",
+        "body part": "Mouth",
+        "part name": " Kotaro"
+    },
+    "Woodman Power": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 50,
+        "def": 100,
+        "class": "beast",
+        "description": "Add Shield equal to the damage this cards deals to Plant targets.",
+        "body part": "Back",
+        "part name": " Timber"
+    },
+    "Blood Taste": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 70,
+        "def": 40,
+        "class": "bug",
+        "description": "Heal this Axie by the damage inflicted with this card.",
+        "body part": "Mouth",
+        "part name": " Mosquito"
+    },
+    "Balloon Pop": {
+        "tier": "C",
+        "nrg": 0,
+        "atk": 40,
+        "def": 0,
+        "class": "bird",
+        "description": "Apply Fear to target for 1 turn. If defending, apply Fear to self until next round.",
+        "body part": "Back",
+        "part name": " Balloon"
+    },
+    "Leek Leak": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 60,
+        "def": 80,
+        "class": "plant",
+        "description": "When hit, disable the attacker's ranged cards next round.",
+        "body part": "Tail",
+        "part name": " Hatsune"
+    },
+    "Mystic Rush": {
+        "tier": "C",
+        "nrg": 0,
+        "atk": 40,
+        "def": 0,
+        "class": "bug",
+        "description": "Apply Speed- to target for 2 rounds.",
+        "body part": "Horn",
+        "part name": " Laggin"
+    },
+    "Shroom's Grace": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 0,
+        "def": 40,
+        "class": "plant",
+        "description": "Heal this Axie for 120 HP.",
+        "body part": "Back",
+        "part name": " Shiitake"
+    },
+    "Dull Grip": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 30,
+        "class": "bug",
+        "description": "Deal 30% more damage to shielded targets.",
+        "body part": "Horn",
+        "part name": " Pliers"
+    },
+    "Self Rally": {
+        "tier": "C",
+        "nrg": 0,
+        "atk": 0,
+        "def": 30,
+        "class": "beast",
+        "description": "Apply 2 Morale+ to this Axie for 2 rounds.",
+        "body part": "Mouth",
+        "part name": " Confident"
+    },
+    "Soothing Song": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 80,
+        "def": 0,
+        "class": "bird",
+        "description": "Apply Sleep to target.",
+        "body part": "Mouth",
+        "part name": " Doubletalk"
+    },
+    "Juggling Balls": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 40,
+        "def": 30,
+        "class": "beast",
+        "description": "Strike 3 times.",
+        "body part": "Back",
+        "part name": " Furball"
+    },
+    "Bug Splat": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 50,
+        "class": "bug",
+        "description": "Deal 50% more damage when attacking Bug targets.",
+        "body part": "Back",
+        "part name": " Sandal"
+    },
+    "Bamboo Clan": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 80,
+        "def": 70,
+        "class": "plant",
+        "description": "Increased 20% damage when chained with another plant card.",
+        "body part": "Horn",
+        "part name": " Bamboo Shoot"
+    },
+    "Gerbil Jump": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 40,
+        "def": 20,
+        "class": "beast",
+        "description": "Skip the closest target if there are 2 or more enemies remaining.",
+        "body part": "Tail",
+        "part name": " Gerbil"
+    },
+    "Chitin Jump": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 30,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Prioritizes furthest target",
+        "body part": "Tail",
+        "part name": " Shrimp"
+    },
+    "Clam Slash": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Apply Attack+ to this Axie when attacking Beast, Bug, or Mech targets.",
+        "body part": "Horn",
+        "part name": " Clamshell"
+    },
+    "Early Bird": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 110,
+        "def": 20,
+        "class": "bird",
+        "description": "Deal 120% damage if this Axie attacks first.",
+        "body part": "Tail",
+        "part name": " Swallow"
+    },
+    "Scaly Lunge": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "reptile",
+        "description": "Deal 120% damage when chained with another \"lunge\" card.",
+        "body part": "Horn",
+        "part name": " Scaly Spear"
+    },
+    "Bug Noise": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 100,
+        "def": 40,
+        "class": "bug",
+        "description": "Apply Attack- to target.",
+        "body part": "Back",
+        "part name": " Buzz Buzz"
+    },
+    "Water Sphere": {
+        "tier": "C",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Apply Chill to target for 2 rounds.",
+        "body part": "Tail",
+        "part name": " Ranchu"
+    },
+    "Sneaky Raid": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 20,
+        "def": 40,
+        "class": "reptile",
+        "description": "Target the furthest enemy.",
+        "body part": "Mouth",
+        "part name": " Toothless Bite, Venom Bite"
+    },
+    "Air Force One": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "bird",
+        "description": "Deal 120% damage when chained with another \"Trump\" card.",
+        "body part": "Horn",
+        "part name": " Trump"
+    },
+    "Vegan Diet": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 75,
+        "def": 75,
+        "class": "plant",
+        "description": "Heal this Axie by the damage this card inflicts on a Plant target.",
+        "body part": "Mouth",
+        "part name": " Herbivore"
+    },
+    "Deep Sea Gore": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 50,
+        "def": 80,
+        "class": "aquatic",
+        "description": "Add 30% to this Axie's shield when attacking.",
+        "body part": "Horn",
+        "part name": " Teal Shell"
+    },
+    "Tiny Catapult": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 80,
+        "def": 40,
+        "class": "reptile",
+        "description": "Reflect 50% of ranged damage back at attacker.",
+        "body part": "Horn",
+        "part name": " Scaly Spoon"
+    },
+    "Smart Shot": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 50,
+        "def": 10,
+        "class": "bird",
+        "description": "Skip the closest target if there are 2 or more enemies remaining.",
+        "body part": "Horn",
+        "part name": " Wing Horn"
+    },
+    "Shell Jab": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "aquatic",
+        "description": "Deal 130% damage when attacking an idle target.",
+        "body part": "Horn",
+        "part name": " Babylonia"
+    },
+    "Black Bubble": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 110,
+        "def": 40,
+        "class": "aquatic",
+        "description": "Apply Jinx to target for 2 rounds.",
+        "body part": "Tail",
+        "part name": " Tadpole"
+    },
+    "Triple Threat": {
+        "tier": "D",
+        "nrg": 0,
+        "atk": 35,
+        "def": 10,
+        "class": "bird",
+        "description": "Attack twice if this Axie has any debuffs.",
+        "body part": "Back",
+        "part name": " Tri Feather"
+    },
+    "Scale Dart (Aqua)": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Draw a card if target is in Last Stand.",
+        "body part": "Back",
+        "part name": " Blue Moon"
+    },
+    "Scale Dart": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 120,
+        "def": 30,
+        "class": "aquatic",
+        "description": "Draw a card if target is in Last Stand.",
+        "body part": "Back",
+        "part name": " Blue Moon"
+    },
+    "Scarab Curse": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 110,
+        "def": 40,
+        "class": "bug",
+        "description": "Target cannot be healed until next round.",
+        "body part": "Back",
+        "part name": " Scarab"
+    },
+    "Aqua Deflect": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 70,
+        "def": 80,
+        "class": "plant",
+        "description": "Cannot be targeted by Aquatic cards if this Axie has teammates remaining.",
+        "body part": "Tail",
+        "part name": " Potato Leaf"
+    },
+    "Feather Lunge": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 110,
+        "def": 50,
+        "class": "bird",
+        "description": "Deal 120% damage when chained with another \"Lunge\" card.",
+        "body part": "Horn",
+        "part name": " Feather Spear"
+    },
+    "Neuro Toxin": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 100,
+        "def": 55,
+        "class": "reptile",
+        "description": "Apply Attack- to poisoned targets.",
+        "body part": "Tail",
+        "part name": " Gila"
+    },
+    "Sunder Armor": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 40,
+        "def": 90,
+        "class": "bird",
+        "description": "Add 20% shield to this Axie for each debuff it possesses.",
+        "body part": "Tail",
+        "part name": " Feather Fan"
+    },
+    "Risky Feather": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 150,
+        "def": 0,
+        "class": "bird",
+        "description": "Apply 2 Attack- to this Axie.",
+        "body part": "Tail",
+        "part name": " The Last One"
+    },
+    "Why So Serious": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 90,
+        "def": 50,
+        "class": "reptile",
+        "description": "Heal this Axie by damage inflicted with this card to Aquatic targets.",
+        "body part": "Mouth",
+        "part name": " Razor Bite"
+    },
+    "Gas Unleash": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 30,
+        "def": 20,
+        "class": "plant",
+        "description": "Apply poison each time this card is used to attack or defend.",
+        "body part": "Tail",
+        "part name": " Yam"
+    },
+    "Barb Strike": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "bug",
+        "description": "Apply 2 poison to target when played in a chain.",
+        "body part": "Back",
+        "part name": " Garish Worm"
+    },
+    "Puffy Smack": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 100,
+        "def": 50,
+        "class": "bird",
+        "description": "Skip targets that are in Last Stand.",
+        "body part": "Tail",
+        "part name": " Cloud"
+    },
+    "Turnip Rocket": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 60,
+        "def": 80,
+        "class": "plant",
+        "description": "Target a bird if comboed with 2 or more cards.",
+        "body part": "Back",
+        "part name": " Turnip"
+    },
+    "Tiny Swing": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 80,
+        "def": 40,
+        "class": "reptile",
+        "description": "Deal 150% damage after round 4.",
+        "body part": "Tail",
+        "part name": " Tiny Dino"
+    },
+    "Bulkwark": {
+        "tier": "D",
+        "nrg": 1,
+        "atk": 20,
+        "def": 80,
+        "class": "reptile",
+        "description": "Reflect 40% of melee damage back at attacker.",
+        "body part": "Back",
+        "part name": " Indian Star"
+    },
+    "Cockadoodledoo": {
+        "tier": "D",
+        "nrg": 0,
+        "atk": 0,
+        "def": 40,
+        "class": "bird",
+        "description": "Apply Attack+ to this Axie.",
+        "body part": "Horn",
+        "part name": " Cuckoo"
+    },
+    "Venom Spray": {
+        "tier": "D",
+        "nrg": 0,
+        "atk": 10,
+        "def": 20,
+        "class": "reptile",
+        "description": "Apply 2 Poison to target.",
+        "body part": "Tail",
+        "part name": " Grass Snake"
+    },
+    "Patient Hunter": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 130,
+        "def": 0,
+        "class": "bird",
+        "description": "Target an Aquatic class enemy if this Axie's HP is below 50%",
+        "body part": "Back",
+        "part name": " Kingfisher"
+    },
+    "Heroic Reward": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 60,
+        "def": 0,
+        "class": "beast",
+        "description": "Draw a card when attacking an Aquatic, Bird, or Dawn target.",
+        "body part": "Back",
+        "part name": " Hero"
+    },
+    "Cattail Slap": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 20,
+        "def": 30,
+        "class": "plant",
+        "description": "Draw a card if struck by a Beast, Bug, or Mech card.",
+        "body part": "Tail",
+        "part name": " Cattail"
+    },
+    "Forest Spirit": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 0,
+        "def": 40,
+        "class": "plant",
+        "description": "Heal front teammate for 190 HP.",
+        "body part": "Mouth",
+        "part name": " Silence Whisper"
+    },
+    "Overgrow Keratin": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 90,
+        "def": 30,
+        "class": "reptile",
+        "description": "Recover 20 shield per turn.",
+        "body part": "Horn",
+        "part name": " Bumpy"
+    },
+    "Poo Fling": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 30,
+        "def": 80,
+        "class": "reptile",
+        "description": "Apply Stench to target until end of round.",
+        "body part": "Horn",
+        "part name": " Unko, Pinku Unko"
+    },
+    "Chemical Warfare": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 30,
+        "def": 80,
+        "class": "bug",
+        "description": "Apply Stench to enemy for 1 round.",
+        "body part": "Tail",
+        "part name": " Ant"
+    },
+    "Mite Bite": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 30,
+        "def": 0,
+        "class": "bug",
+        "description": "Add 100% more damage when comboed with another card.",
+        "body part": "Mouth",
+        "part name": " Square Teeth"
+    },
+    "Jar Barrage": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 80,
+        "def": 20,
+        "class": "reptile",
+        "description": "Attacks that break this Axie\u2019s shield cannot do additional damage. Can only trigger once per round.",
+        "body part": "Tail",
+        "part name": " Snake Jar"
+    },
+    "Numbing Lecretion": {
+        "tier": "E",
+        "nrg": 1,
+        "atk": 30,
+        "def": 40,
+        "class": "bug",
+        "description": "Disable target's melee cards next round.",
+        "body part": "Tail",
+        "part name": " Gravel Ant"
+    },
+    "Grub Explode": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 60,
+        "def": 0,
+        "class": "bug",
+        "description": "Deal 200% damage when attacking in Last stand. Axie's Last Stand ends after it attacks.",
+        "body part": "Tail",
+        "part name": " Pupae"
+    },
+    "Twin Needle": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 30,
+        "def": 0,
+        "class": "bug",
+        "description": "Attack twice when comboed with another card.",
+        "body part": "Tail",
+        "part name": " Twin Tail"
+    },
+    "Sunder Claw": {
+        "tier": "E",
+        "nrg": 0,
+        "atk": 20,
+        "def": 0,
+        "class": "bug",
+        "description": "Randomly discard 1 card from your enemy's hand.",
+        "body part": "Mouth",
+        "part name": " Pincer"
+    },
+    "Sweet Party": {
+        "tier": "F",
+        "nrg": 2,
+        "atk": 0,
+        "def": 0,
+        "class": "plant",
+        "description": "Heal front teammate for 270 HP. If there are no front teammates, heal this Axie instead.",
+        "body part": "Horn",
+        "part name": " Strawberry Shortcake"
+    }
+}
